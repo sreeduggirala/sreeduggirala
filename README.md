@@ -1,4 +1,4 @@
-<h2> Hi👋, I'm Sree Duggirala! </h2>
+<h2> Hi, I'm Sree Duggirala! </h2>
 
 I'm an avid smart contract and front-end developer, primarily for EVM-compatible ecosystems. 
 
